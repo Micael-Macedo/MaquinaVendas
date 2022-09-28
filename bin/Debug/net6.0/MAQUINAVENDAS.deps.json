@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "MAQUINAVENDAS/1.0.0": {
+      "MaquinaVendas/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.SqlServer": "6.0.8",
           "Microsoft.EntityFrameworkCore.Tools": "6.0.8",
@@ -16,7 +16,7 @@
           "Pomelo.EntityFrameworkCore.MySql.Design": "1.1.2"
         },
         "runtime": {
-          "MAQUINAVENDAS.dll": {}
+          "MaquinaVendas.dll": {}
         }
       },
       "Humanizer.Core/2.8.26": {
@@ -2270,7 +2270,7 @@
     }
   },
   "libraries": {
-    "MAQUINAVENDAS/1.0.0": {
+    "MaquinaVendas/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
